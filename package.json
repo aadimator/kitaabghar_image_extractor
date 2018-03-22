@@ -1,0 +1,19 @@
+{
+  "name": "kitaabghar_image_extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadimator/kitaabghar_image_extractor.git"
+  },
+  "author": "Aadam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aadimator/kitaabghar_image_extractor/issues"
+  },
+  "homepage": "https://github.com/aadimator/kitaabghar_image_extractor#readme"
+}
