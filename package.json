@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aadimator/kitaabghar_image_extractor/issues"
   },
-  "homepage": "https://github.com/aadimator/kitaabghar_image_extractor#readme"
+  "homepage": "https://github.com/aadimator/kitaabghar_image_extractor#readme",
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
 }
